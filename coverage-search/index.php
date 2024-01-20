@@ -1,0 +1,1 @@
+<?php echo ("The green goose quacks"); ?>
