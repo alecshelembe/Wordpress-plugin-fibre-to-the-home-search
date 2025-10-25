@@ -1,6 +1,6 @@
 #FTTH Coverage Map
 
-PHP debuggen needed :) 
+PHP debuggin needed :) 
 
 A custom wordpress plugin.
 1 add plugin under wordress/wp-content/plugins (pluggins dir)
